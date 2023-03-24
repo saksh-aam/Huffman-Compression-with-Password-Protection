@@ -1,4 +1,4 @@
-# Huffman-Compressor-Decompressor & Password Protection
+# Huffman-Compressor-Decompressor with Password Protection
 
 The compressor component of the tool compresses the input data and stores it as a series of bytes in a .bin file. The decompressor component first reads the key-value pair of the character-to-binary string and then decompresses the data byte by byte.
 
