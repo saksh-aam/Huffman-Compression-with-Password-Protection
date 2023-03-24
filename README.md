@@ -10,6 +10,6 @@ This tool also provides password protection for compressed files using RSA crypt
 3. Execute these commands:
 - g++ -o compression HuffmanCompression.cpp
 - compression input.txt <numeric-password>
-- g++ -o decompression decompression.cpp
+- g++ -o decompression Huffmandecompression.cpp
 - decompression input-compressed.bin <numeric-password>
 4. Output will be displayed in input-decompressed.txt file.
